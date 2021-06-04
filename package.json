@@ -1,0 +1,22 @@
+{
+  "name": "reactprojectlessons",
+  "version": "1.0.0",
+  "description": "LEsson 10 on React modul",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "node hello.js",
+    "build": "mkdir build",
+    "delete": "npx rimraf build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/ReactProjectLessons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/ReactProjectLessons/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/ReactProjectLessons#readme"
+}
